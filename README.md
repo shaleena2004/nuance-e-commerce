@@ -131,3 +131,4 @@ The application features a unified authentication system. Entering the administr
 - **Client Directory**: Real-time list of registered customer accounts, customer phone numbers, and delivery addresses.
 - **Quick Switcher**: Seamlessly switch between the Admin Dashboard and the Customer Boutique at any time via the boutique icon.
 
+# nuance-e-commerce
