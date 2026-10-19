@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "158872998208",
+    "project_id": "nuance-e-commerce",
+    "storage_bucket": "nuance-e-commerce.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158872998208:android:a3a0b9d6192af5663e6aa5",
+        "android_client_info": {
+          "package_name": "com.clothingbrand.clothing_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsFHog-w8AMeKfLLjy7U-rEVPWq5ScbGA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
